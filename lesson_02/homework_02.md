@@ -241,15 +241,15 @@ Stream ID и Measurement ID — это разные идентификаторы
 
 ## 2.3. Скриншоты
 
-![Создание Analytics Account](screens/01-analytics-account.png)
+Скриншот: вставьте строку `![Создание Analytics Account](screens/01-analytics-account.png)`
 
-![Ресурс: часовой пояс и валюта](screens/02-property.png)
+Скриншот: вставьте строку `![Ресурс: часовой пояс и валюта](screens/02-property.png)`
 
-![Выбор бизнес-целей](screens/03-business-goals.png)
+Скриншот: вставьте строку `![Выбор бизнес-целей](screens/03-business-goals.png)`
 
-![Веб-поток: Website URL, Stream name, Enhanced Measurement](screens/04-web-stream.png)
+Скриншот: вставьте строку `![Веб-поток: Website URL, Stream name, Enhanced Measurement](screens/04-web-stream.png)`
 
-![Web stream details с Measurement ID](screens/05-measurement-id.png)
+Скриншот: вставьте строку `![Web stream details с Measurement ID](screens/05-measurement-id.png)`
 
 ---
 
