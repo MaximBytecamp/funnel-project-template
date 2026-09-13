@@ -60,19 +60,13 @@
 
 ## Часть 2. Google Analytics 4
 
-Делается по презентации **Тема 04 · Google Analytics 4** на сайте курса:
-от входа в Google Analytics до Measurement ID.
+Пройти путь от входа в Google Analytics до собственного Measurement ID вида
+`G-XXXXXXXXXX`: аккаунт, ресурс с часовым поясом и валютой, бизнес-цели,
+веб-поток для вашего сайта. Экран за экраном это разобрано в презентации
+**Тема 04 · Google Analytics 4** на сайте курса, сверяйтесь с ней.
 
-1. Войти в Google Analytics под своим Google-аккаунтом.
-2. Создать Analytics Account с понятным названием.
-3. Создать Property для учебного или собственного проекта.
-4. Выбрать часовой пояс, валюту и общие сведения о проекте.
-5. Выбрать бизнес-цели.
-6. Создать ресурс.
-7. Создать Web Data Stream для своего учебного сайта или проекта.
-8. Проверить Website URL, Stream name и Enhanced Measurement.
-9. Создать поток.
-10. Открыть Web stream details и найти Measurement ID вида `G-XXXXXXXXXX`.
+Доказательством служат пять кадров из таблицы ниже, поэтому снимайте их
+по ходу, а не в конце.
 
 **Google Tag на сайт пока не ставим**, это делается в задании 3.
 
@@ -87,8 +81,10 @@
 | `screens/04-web-stream.png` | `lesson_02/screens/` | веб-поток: Website URL, Stream name, Enhanced Measurement |
 | `screens/05-measurement-id.png` | `lesson_02/screens/` | Web stream details с Measurement ID |
 
-Формат: Markdown, скриншоты PNG. Работайте в ветке `hw-02` и откройте запрос
-на слияние в свою `main`.
+Формат: Markdown, скриншоты PNG. Работа уходит в ветку `hw-02` и дальше
+через запрос на слияние в вашу `main`; кнопки в VS Code разобраны
+в [ветках](../docs/git/README.md#5-ветки) и
+[публикации Pull Request](../docs/git/README.md#6-ветки-на-github-и-pull-request).
 
 ## Как оценивается
 
