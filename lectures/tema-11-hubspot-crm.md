@@ -45,8 +45,8 @@ CSV для импорта, контрольный CSV, карта свойств
 Шесть своих Deal Properties: Request ID и UTM Source / Medium / Campaign
 (однострочный текст), Direction (выпадающий список backend, frontend,
 data), Application Created At (дата и время). На тарифе Free своих свойств
-не больше 10 в сумме. Request ID — обычное поле: дубли по нему HubSpot
-сам не отслеживает.
+не больше 10 в сумме. Request ID — обычное текстовое поле, HubSpot
+не проверяет по нему дубли.
 
 ### Импорт из CSV
 
