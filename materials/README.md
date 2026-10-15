@@ -20,7 +20,7 @@
 | [`tema-08-google-sheets-cleaning`](tema-08-google-sheets-cleaning/) | Google Таблицы: подготовка данных | CSV v1 и v2, формулы очистки |
 | [`tema-09-instagram-manychat`](tema-09-instagram-manychat/) | Instagram → ManyChat → заявка | практика, тексты сообщений, проверки, `guide.html` |
 | [`tema-10-ga4-explorations`](tema-10-ga4-explorations/) | GA4: отчёты и исследования | практика, шаблон анализа, чек-лист, карта полей |
-| [`tema-10-2-data-studio`](tema-10-2-data-studio/) | Data Studio | практика, спецификация отчёта, формулы, сверка |
+| [`tema-10-2-datalens`](tema-10-2-datalens/) | DataLens | практика, спецификация дашборда, формулы, сверка |
 | [`tema-11-hubspot-crm`](tema-11-hubspot-crm/) | HubSpot CRM | практика, CSV для импорта, карта свойств, сверка |
 
 В файлах нет настоящих персональных данных: имена и адреса вымышлены,

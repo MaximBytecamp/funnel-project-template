@@ -56,7 +56,7 @@
 
 Google Analytics 4, Google Tag Manager, UTM-метки, Google Таблицы, Apps Script,
 Vercel, GitHub, n8n, Bruno или Postman, CRM, Telegram или почта для
-уведомлений, Data Studio (бывший Looker Studio). Большинство сервисов
+уведомлений, Yandex DataLens. Большинство сервисов
 работает в браузере.
 
 ## Документация

@@ -23,7 +23,7 @@
 | 8 · Google Таблицы: подготовка данных | [tema-08](tema-08-google-sheets-cleaning.md) | [materials/tema-08](../materials/tema-08-google-sheets-cleaning/) | [`lesson_06`](../lesson_06/README.md) |
 | 9 · Instagram → ManyChat → заявка | [tema-09](tema-09-instagram-manychat.md) | [materials/tema-09](../materials/tema-09-instagram-manychat/) | [`lesson_07`](../lesson_07/README.md) |
 | 10 · GA4: отчёты и исследования | [tema-10](tema-10-ga4-explorations.md) | [materials/tema-10](../materials/tema-10-ga4-explorations/) | задание выдаётся отдельно |
-| 10.2 · Data Studio: GA4 и заявки | [tema-10-2](tema-10-2-data-studio.md) | [materials/tema-10-2](../materials/tema-10-2-data-studio/) | задание выдаётся отдельно |
+| 10.2 · DataLens: GA4 и заявки | [tema-10-2](tema-10-2-datalens.md) | [materials/tema-10-2](../materials/tema-10-2-datalens/) | задание выдаётся отдельно |
 | 11 · HubSpot CRM | [tema-11](tema-11-hubspot-crm.md) | [materials/tema-11](../materials/tema-11-hubspot-crm/) | задание выдаётся отдельно |
 
 Все презентации открываются со страницы дисциплины:
@@ -41,7 +41,7 @@ https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologi
                      └─▶ форма ─▶ Apps Script ─▶ Google Таблица leads ─▶ leads_clean
                                                          │
 Instagram ─▶ ManyChat ─▶ guide.html ─────────────────────┤
-                                                         ├─▶ Data Studio: общий отчёт
+                                                         ├─▶ DataLens: общий дашборд
                                                          └─▶ HubSpot CRM: Contact и Deal
 ```
 
@@ -56,5 +56,5 @@ Instagram ─▶ ManyChat ─▶ guide.html ────────────
 | 8 | таблица `leads_cleaning`: листы `source`, `leads_clean`, `check` и очищенный CSV |
 | 9 | страница `guide.html`, автоматизация ManyChat на комментарий «ГАЙД», заявка из Instagram в таблице |
 | 10 | заполненный шаблон анализа: Reports, Free form, сегменты, Funnel и Path по своему ресурсу |
-| 10.2 | отчёт Data Studio из трёх страниц: трафик GA4, заявки из таблицы, Blend по source и campaign |
+| 10.2 | дашборд DataLens из трёх вкладок: трафик GA4, заявки из таблицы, сводная таблица по source и campaign |
 | 11 | HubSpot: Pipeline из пяти стадий, шесть свойств сделки, импорт заявок из CSV, Notes и Tasks |
