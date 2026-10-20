@@ -35,8 +35,8 @@
 6. **Сделайте презентацию** по плану [`prezentaciya.md`](prezentaciya.md).
    Выгрузите в PDF: `presentation/zashchita.pdf`. Исходник (`.pptx`, ссылка
    на Google Slides или Figma) — рядом или ссылкой в README.
-7. **Сдайте ссылки.** В `funnel-project` создайте ветку `kursovaya`, заполните
-   [`kursovaya.md`](kursovaya.md), откройте Pull Request в свою `main`.
+7. **Сдайте ссылки.** В `funnel-project` заполните [`kursovaya.md`](kursovaya.md)
+   и отправьте коммит `kursovaya: ссылки` в `main`.
 8. **Защитите работу** в назначенный день.
 
 Срок сдачи назначается при выдаче ТЗ. Репозиторий после срока не меняется

@@ -87,9 +87,9 @@ https://ВАШ-ПРОЕКТ.vercel.app/guide.html?utm_source=instagram&utm_mediu
 Кнопка ManyChat в Direct видна только в приложении Instagram: кадр 5
 снимается с телефона.
 
-Работа уходит в ветку `hw-07` и дальше через запрос на слияние в вашу `main`;
-кнопки в VS Code разобраны в [ветках](../docs/git/README.md#5-ветки) и
-[публикации Pull Request](../docs/git/README.md#6-ветки-на-github-и-pull-request).
+Работа сдаётся коммитом `hw-07: …` прямо в `main`, отдельная ветка
+не нужна. Кнопки в VS Code разобраны в [коммитах](../docs/git/README.md#3-изменения-и-коммиты)
+и [отправке на GitHub](../docs/git/README.md#отправить-на-github).
 
 ## Аккаунты и личные данные
 

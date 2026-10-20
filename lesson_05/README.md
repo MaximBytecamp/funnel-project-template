@@ -79,9 +79,9 @@ https://ВАШ-ПРОЕКТ.vercel.app/contacts.html?utm_source=telegram&utm_med
 `student@example.com`. Свой телефон, настоящий адрес почты и чужие данные
 в таблицу не вписываются.
 
-Работа уходит в ветку `hw-05` и дальше через запрос на слияние в вашу `main`;
-кнопки в VS Code разобраны в [ветках](../docs/git/README.md#5-ветки) и
-[публикации Pull Request](../docs/git/README.md#6-ветки-на-github-и-pull-request).
+Работа сдаётся коммитом `hw-05: …` прямо в `main`, отдельная ветка
+не нужна. Кнопки в VS Code разобраны в [коммитах](../docs/git/README.md#3-изменения-и-коммиты)
+и [отправке на GitHub](../docs/git/README.md#отправить-на-github).
 
 ## Доступ к таблице
 
