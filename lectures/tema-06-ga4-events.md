@@ -11,6 +11,8 @@
 **Задание в репозитории:** [`lesson_04`](../lesson_04/README.md) — четыре своих
 события и их параметры.
 
+**Тест:** [Тест 2 · GA4, Google Tag и события](https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/tests/temy-4-6/index.html) — по темам 4, 5 и 6.
+
 ## Содержание лекции
 
 ### Событийная модель

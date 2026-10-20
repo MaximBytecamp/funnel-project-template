@@ -9,6 +9,8 @@
 **Задание в репозитории:** [`lesson_03`](../lesson_03/README.md) — тег на сайте,
 источник перехода и отчёты GA4.
 
+**Тест:** [Тест 2 · GA4, Google Tag и события](https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/tests/temy-4-6/index.html) — по темам 4, 5 и 6.
+
 ## Содержание лекции
 
 ### Копия шаблона и клонирование

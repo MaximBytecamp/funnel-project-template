@@ -9,6 +9,8 @@
 [`lesson_03`](../lesson_03/README.md), [`lesson_04`](../lesson_04/README.md),
 [`lesson_05`](../lesson_05/README.md) и [`lesson_07`](../lesson_07/README.md).
 
+**Тест:** [Тест 1 · Цифровая воронка и UTM-метки](https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/tests/01-voronka-i-utm/index.html) — по темам 2 и 3.
+
 ## Содержание лекции
 
 ### Зачем нужны метки

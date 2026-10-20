@@ -7,6 +7,8 @@
 **Задание в репозитории:** вторая часть [`lesson_02`](../lesson_02/README.md) —
 структура GA4 по материалам презентации.
 
+**Тест:** [Тест 2 · GA4, Google Tag и события](https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/tests/temy-4-6/index.html) — по темам 4, 5 и 6.
+
 ## Содержание лекции
 
 GA4 принимает события с сайта и строит по ним отчёты: сколько людей пришло,

@@ -8,6 +8,8 @@
 **Задание в репозитории:** [`lesson_01`](../lesson_01/README.md) и первая часть
 [`lesson_02`](../lesson_02/README.md).
 
+**Тест:** [Тест 1 · Цифровая воронка и UTM-метки](https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/tests/01-voronka-i-utm/index.html) — по темам 2 и 3.
+
 ## Содержание лекции
 
 ### Путь пользователя и путь данных
